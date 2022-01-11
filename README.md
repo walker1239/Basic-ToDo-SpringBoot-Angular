@@ -1,2 +1,6 @@
 # Basic-ToDo-SpringBoot-Angular
-basic todo developed in angular and spring boot
+examples of use:
+![todo-empty](images/todo-empty.png)
+![todo](images/todo.png)
+![todo-edit](images/todo-edit.png)
+![todo-delete](images/todo-delete.png)
